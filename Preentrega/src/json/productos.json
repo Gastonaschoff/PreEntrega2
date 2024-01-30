@@ -1,0 +1,135 @@
+[
+    {"id":13,
+        "nombre":"Termo Stanley Mate-System 1.2 Lts", 
+        "description":"En Argentina, el mate es una bebida muy especial que se comparte en todo momento y lugar. Y para hacer que esta experiencia sea aún más especial, Stanley ha creado el Termo Mate Stanley Classic 1.2 lts, el compañero ideal para disfrutar del mate en cualquier situación.  ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/termo2.jpg", 
+        "precio":85000, 
+        "categoria":"materos"
+    
+    },
+    {"id":14,
+        "nombre":"Termo Stanley Adventure 500 Ml    ", 
+        "description":"Con una capacidad de 500 ml, más pequeña y ligera, la nueva Adventure está hecha a medida para tu día a día. ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/termo1.jpg", 
+        "precio":85000, 
+        "categoria":"materos"
+    
+    },
+    {"id":15,
+        "nombre":"Mate Stanley 236 Ml Verde ", 
+        "description":"El mate Stanley mantiene la temperatura durante toda la cebada. Es práctico e higiénico. Si el producto es comprado en Argentina la garantía es de por vida; siempre y cuando cumpla con los requisitos solicitados.    ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/mate.jpg", 
+        "precio":13400, 
+        "categoria":"materos"
+    
+    },
+    {"id":16,
+        "nombre":"Mate Stanley 236 Ml Verde rosa", 
+        "description":"El mate Stanley mantiene la temperatura durante toda la cebada. Es práctico e higiénico. Si el producto es comprado en Argentina la garantía es de por vida; siempre y cuando cumpla con los requisitos solicitados.    ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/mate2.jpg", 
+        "precio":13400, 
+        "categoria":"sombreros"
+    
+    },
+        {"id":1,
+        "nombre":"Dubinik® Camisa Amarilla Flannel Shirt", 
+        "description":"Composición del material 100% Algodón -  Instrucciones de cuidado del material: Lavar a máquina", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/amarilla.jpg", 
+        "precio":14500, 
+        "categoria":"camisas"
+    },
+    
+        {"id":2,
+        "nombre":"Brandit® Camisa Red Flannel Shirt", 
+        "description":"Composición del material100% Algodón Instrucciones de cuidado del materialLimpiar en seco Tipo de cierreBotón Estilo de cuelloCuello redondo", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/c-red.jpg", 
+        "precio":11500, 
+        "categoria":"camisas"
+    },
+        {"id":3,
+        "nombre":"Buzo Trown® Full Zip Trail Unisex", 
+        "description":"Buzo trown cierre completo.", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/buzo2.jpg", 
+        "precio":16000, 
+        "categoria":"buzos"
+    
+    },
+    {"id":4,
+        "nombre":"Remera Manga Corta Trown® 7 Lagos    ", 
+        "description":"En Trown estamos cada vez mas cerca de lograr el objetivo principal, diseñar y producir productos con el menor impacto ambiental posible, y que ayuden a reforestar nuestros bosques .", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/remera3.jpg", 
+        "precio":8500, 
+        "categoria":"remeras"
+    
+    },
+    {"id":5,
+        "nombre":"Buzo Trown® Hoodie Our Forest", 
+        "description":"Ideal para acompañarte en tu siguiente aventura a donde sea que vayas..", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/buzo.jpg", 
+        "precio":14500, 
+        "categoria":"buzos"
+    
+    },
+    {"id":6,
+        "nombre":"Trown Remera Lifestyle Hombre Mountaint Front ", 
+        "description":"Cada una de estas prendas es mas resistente y duradera, asi, fomentamos el consumo mucho mas responsable. Con ellas logramos reducir la contaminación del suelo, el aire, y el agua.", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/black.jpg", 
+        "precio":8500, 
+        "categoria":"remera"
+    
+    }
+    ,
+    {"id":7,
+        "nombre":"Trucker® Cap Gorra We Plant Trees ", 
+        "description":"Trucker Cap Gorra We Plant Trees", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/planet.jpg", 
+        "precio":21000, 
+        "categoria":"sombreros"
+    
+    }
+    ,
+    {"id":8,
+        "nombre":"Trucker® Cap Gorra Plain Arbol T ", 
+        "description":"Trucker Cap Gorra Plain Arbol T", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/trucker.jpg", 
+        "precio":21000, 
+        "categoria":"sombreros"
+    
+    }
+    ,
+    {"id":9,
+        "nombre":"Buzo Forge Mark Uprisal Hoody Patagonia®  ", 
+        "description":"Al usar retazos de tela y botellas recicladas esta prenda 100% reciclada reduce nuestra necesidad de materiales nuevos. Si sabes más, lo haces mejor. Con certificación Fair Trade ™.", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/patagonia.jpg", 
+        "precio":18000, 
+        "categoria":"buzos"
+    
+    }
+    ,
+    {"id":10,
+        "nombre":"Remera Patagonia® Fly Fishing Snowboard  ", 
+        "description":"100% algodón peinado • No se deformarán con el uso • Elaborado por mí mismo para un ajuste perfecto.", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/patagonia1.jpg", 
+        "precio":11000, 
+        "categoria":"buzos"
+    
+    }
+    ,
+    {"id":11,
+        "nombre":"Patagonia Quandary Brimmer Hat Forge Grey", 
+        "description":"Patagonia Hats Patagonia Quandary Brimmer Hat Forge Grey    ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/gorro.jpg", 
+        "precio":34000, 
+        "categoria":"sombreros"
+    
+    }
+    ,
+    {"id":12,
+        "nombre":"Patagonia The Forge Hat    ", 
+        "description":"Sombrero de ala ancha en una mezcla de cáñamo/poliéster reciclado/algodón ligero, cómodo y duradero. Costuras Fair Trade Certified™.    ", 
+        "imagen":"https://vertegrande.com/dev/tienda_api/gorro1.jpg", 
+        "precio":29000, 
+        "categoria":"sombreros"
+    
+    }
+    ]
